@@ -1,0 +1,18 @@
+{
+    "quotes": [
+        {
+            "id": 1,
+            "text": "Tämä on esimerkkiquote",
+            "person": "Henkilö A",
+            "video": "Esimerkkivideo",
+            "half": "first"
+        },
+        {
+            "id": 2,
+            "text": "Toinen esimerkki",
+            "person": "Henkilö B",
+            "video": "ToinenVideo",
+            "half": "second"
+        }
+    ]
+}
